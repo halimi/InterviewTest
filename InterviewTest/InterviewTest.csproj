@@ -55,7 +55,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ErrorPage.cs" />
+    <Compile Include="HelloPage.cs" />
+    <Compile Include="TestPage.cs" />
+    <Compile Include="BasePage.cs" />
+    <Compile Include="FormPage.cs" />
+    <Compile Include="HomePage.cs" />
     <Compile Include="InterviewTest.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
